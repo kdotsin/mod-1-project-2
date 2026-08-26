@@ -1,0 +1,1 @@
+This is my readme. Per Scholas exercise for git commands.
